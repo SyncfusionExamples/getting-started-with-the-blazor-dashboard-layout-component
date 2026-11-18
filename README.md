@@ -1,7 +1,7 @@
 # Getting Started with the Blazor Dashboard Layout Component
 
 ## Project Overview
-This sample demonstrates how to add the Syncfusion [Blazor Dashboard Layout](https://www.syncfusion.com/blazor-components/blazor-dashboard) component to a .NET 10 Blazor Server app. The application renders a four-panel dashboard and configures panel placement and size through properties such as `Columns`, `Column`, `Row`, `SizeX`, and `SizeY`. This approach shows how dashboard panels can be arranged and resized in an interactive server layout.
+This sample demonstrates how to add the Syncfusion [Blazor Dashboard Layout](https://www.syncfusion.com/blazor-components/blazor-dashboard) component to a .NET 10 Blazor WebAssembly app. The application renders a four-panel dashboard and configures panel placement and size through properties such as `Columns`, `Column`, `Row`, `SizeX`, and `SizeY`. This approach shows how dashboard panels can be arranged and resized in a WebAssembly layout.
 
 ## Features
 - Uses the Syncfusion Blazor `SfDashboardLayout` component to render the dashboard.
